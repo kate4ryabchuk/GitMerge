@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    max-width: 900px;
+}
+
+h1 {
+    text-align: center;
+}
+
+address {
+    display: inline-block;
+}
